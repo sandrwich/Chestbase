@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+main: pl.daffit.chestbase.ChestbasePlugin
+author: PinkLolicorn
+commands: {}
